@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.4.3  # Updated version compatible with Node.js 16
+      - uses: actions/checkout@v2  # Use the correct syntax for actions/checkout
 
       - uses: Platane/snk@master
         id: snake-gif

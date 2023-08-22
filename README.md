@@ -9,7 +9,7 @@
 <h3 align="center">🌈 A passionate MERN Stack Developer from India 🌈</h3>
 <hr>
 
-![banner_1](https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814)
+<kbd><img src="https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814" alt="vicky-510" /></kbd>
 
 <br>
 
@@ -66,9 +66,8 @@
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <br>
 <div align="center">
-  
+    
 ![](https://github-contributor-stats.vercel.app/api?username=vicky-510&limit=5&theme=chalk&combine_all_yearly_contributions=true) 
-
 </div>
 <br>
 <br>
@@ -81,8 +80,9 @@
 <br>
 
 <h2 align="center">😂 Random Dev Meme</h2>
-
+<div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  </div>
 <br>
 
 ---

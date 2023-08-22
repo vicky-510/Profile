@@ -88,6 +88,3 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Graph 🐍</h2>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vicky-510/vicky-510/output/github-contribution-grid-snake.svg" />

@@ -56,8 +56,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-510&" alt="vicky-510" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vicky-510&show_icons=true&locale=en" alt="vicky-510" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-510&show_icons=true&locale=en" alt="vicky-510" /></p>
 <p align="center"  ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky-510&show_icons=true&locale=en&layout=compact" alt="vicky-510" /></p>
 
 <br>
@@ -68,6 +69,7 @@
 <div align="center">
     
 ![](https://github-contributor-stats.vercel.app/api?username=vicky-510&limit=5&theme=chalk&combine_all_yearly_contributions=true) 
+
 </div>
 <br>
 <br>

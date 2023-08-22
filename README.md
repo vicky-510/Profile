@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vicky-510&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-510" /> </p>
 
+![banner_1](https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Vigneshwaran+M!;&center=true&size=30">

@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vicky-510&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-510" /> </p>
 
-![banner_1](https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,6 +8,9 @@
 </h1>
 <h3 align="center">🌈 A passionate MERN Stack Developer from India 🌈</h3>
 <hr>
+
+![banner_1](https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814)
+
 <br>
 
 - 🔭 I Completed My Android App Development Internship at **NilaApps Private Ltd**

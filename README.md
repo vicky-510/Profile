@@ -34,14 +34,10 @@
 
 <h2 align="center">❄️  Connect With Me ❄️ </h2>
 <br>
-<p align="center">
-  
+<p align="center"> 
 <a href="https://linkedin.com/in/vwaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vwaran" height="30" width="40" /></a>
-
 <a href="https://instagram.com/_________mr__hac_ker_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_________mr__hac_ker_________" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/vicky510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vicky510" height="30" width="40" /></a>
-
 </p>
 <br>
 

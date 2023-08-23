@@ -1,14 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vicky-510&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-510" /> </p>
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Vigneshwaran+M!;&center=true&size=30">
   </a>
 </h1>
+
 <h3 align="center">🌈 A passionate MERN Stack Developer from India 🌈</h3>
 <hr>
-
 <kbd><img src="https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814" alt="vicky-510" /></kbd>
 
 <br>
@@ -35,14 +34,20 @@
 <h2 align="center">❄️  Connect With Me ❄️ </h2>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/vwaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vwaran" height="30" width="40" /></a>
-<a href="https://instagram.com/_________mr__hac_ker_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_________mr__hac_ker_________" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vicky510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vicky510" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vwaran" target="blank">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/_________mr__hac_ker_________" target="blank">
+     <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.twitter.com/" target="blank">
+   <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+  
 </p>
 <br>
 
 <br>
-
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
@@ -57,9 +62,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-510&" alt="vicky-510" /></p>
-
+<div align="center" >
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-510&" alt="vicky-510" /></p>
+</div>
 
 <br>
 <br>
@@ -67,7 +72,7 @@
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <br>
 <div align="center">
-    
+
 ![](https://github-contributor-stats.vercel.app/api?username=vicky-510&limit=5&theme=chalk&combine_all_yearly_contributions=true) 
 
 </div>
@@ -82,10 +87,8 @@
 <br>
 
 <h2 align="center">😂 Random Dev Meme</h2>
-<div align="center">
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-  </div>
 <br>
 
 ---
-

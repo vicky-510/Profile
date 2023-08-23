@@ -31,23 +31,7 @@
 
 <br>
 
-<h2 align="center">❄️  Connect With Me ❄️ </h2>
-<br>
-<p align="center">
-<a href="https://linkedin.com/in/vwaran" target="blank">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://instagram.com/_________mr__hac_ker_________" target="blank">
-     <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://www.twitter.com/" target="blank">
-   <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-  
-</p>
-<br>
 
-<br>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
@@ -87,8 +71,26 @@
 <br>
 
 <h2 align="center">😂 Random Dev Meme</h2>
-
+<div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+<br>
+
+
+<h2 align="center">❄️  Connect With Me ❄️ </h2>
+<br>
+<p align="center">
+<a href="https://linkedin.com/in/vwaran" target="blank">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/_________mr__hac_ker_________" target="blank">
+     <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.twitter.com/" target="blank">
+   <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+  
+</p>
 <br>
 
 ---

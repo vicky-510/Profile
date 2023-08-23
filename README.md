@@ -48,7 +48,7 @@
 <br>
 <div align="center" >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-510&" alt="vicky-510" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-510&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" />
+ <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-510&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="top" /></kbd> 
 
 </div>
 

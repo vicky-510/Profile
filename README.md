@@ -12,7 +12,9 @@
 
 <br>
 
-- 🔭 I Completed My Android App Development Internship at **NilaApps Private Ltd**
+- 🔥 Trainee Programmer at **Webstix design Private Ltd**
+
+- 🔭 Ex-Android App Development Intern at **NilaApps Private Ltd**
 
 - 🌱 I’m currently learning **Tailwind, GraphQl**
 
@@ -26,7 +28,7 @@
 
 - 📫 How to reach me **vignesh510510@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz](https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz)
+- 📄 Know about my experiences [[https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz](https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz](https://drive.google.com/file/d/10eSQnPs8AwvCMsdszC3_-ieRzUHw9UuH/view?usp=drivesdk)
 <br>
 
 <br>

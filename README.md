@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Tailwind, GraphQl**
 
-- 🤝 I Completed My Full stack development (MERN) from **Elysium Academy**
+- 🤝 I Completed My Full stack development (MERN) Course from **Elysium Academy**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 

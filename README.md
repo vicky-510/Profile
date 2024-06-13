@@ -11,22 +11,24 @@
 <kbd><img src="https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814" alt="vicky-510" /></kbd>
 
 <br>
+<br>
+Welcome to my GitHub profile! Here’s a bit about me:
 
-- 🔥 Trainee Programmer at **Webstix design Private Ltd**
-
-- 🔭 Ex-Android App Development Intern at **NilaApps Private Ltd**
-
-- 🌱 I’m currently learning **Tailwind, GraphQl**
-
-- 🤝 I Completed My Full stack development (MERN) Course from **Elysium Academy**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 👨‍💻 All of my projects are available at [https://vwaran.me](https://vwaran.me)
-
-- 💬 Ask me about **React, MongoDB, Node, Express**
-
-- 📫 How to reach me **vignesh510510@gmail.com**
+- 🔥 Ex-Trainee Programmer at Webstix Design Private Ltd
+  
+- 🔭 Ex-Android App Development Intern at NilaApps Private Ltd
+  
+- 🌱 I’m currently learning Tailwind CSS and GraphQL
+  
+- 🤝 I completed my Full Stack Development (MERN) course at Elysium Academy
+  
+- 👯 I’m looking to collaborate on MERN Stack Projects
+  
+- 👨‍💻 All of my projects are available at https://vwaran.me
+  
+- 💬 Ask me about React, MongoDB, Node.js, Express.js
+  
+- 📫 How to reach me: vignesh510510@gmail.com
 
 - 📄 Know about my experiences [[https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz](https://1drv.ms/b/s!Arl76FShcxEKkwKCA6-fBGvoUXAz](https://drive.google.com/file/d/10eSQnPs8AwvCMsdszC3_-ieRzUHw9UuH/view?usp=drivesdk)
 <br>

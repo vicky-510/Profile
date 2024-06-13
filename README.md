@@ -76,12 +76,6 @@ Welcome to my GitHub profile! Here’s a bit about me:
 <br>
 <br>
 
-<h2 align="center">😂 Random Dev Meme</h2>
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-<br>
-
 
 <h2 align="center">❄️  Connect With Me ❄️ </h2>
 <br>
